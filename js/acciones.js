@@ -21,7 +21,7 @@ $(document).ready(function(e){
 			navigator.notification.vibrate(1000);
 			break;
 			}//switch opt
-				},"Practica4","Beep,Vibrar,Cancelar");//confirm
+				},"Examen2","Beep,Vibrar,Cancelar");//confirm
 				
 			});//barrer derecha
 			
